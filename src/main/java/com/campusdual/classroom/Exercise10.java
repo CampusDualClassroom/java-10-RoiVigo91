@@ -17,6 +17,7 @@ public class Exercise10 {
             if ("azul".equals(colors)) {
                 contarAzul++;
             }
+            System.out.println("Han salido: "+ contarAzul + " bolas asules");
 
         }while (contarAzul< 2);
 
